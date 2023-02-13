@@ -2,3 +2,6 @@
 ---
 1. 0-hello_world
 - a script that print hello world
+ 
+2. 1-confused_smiley
+-  a script that displays a confused smiley
