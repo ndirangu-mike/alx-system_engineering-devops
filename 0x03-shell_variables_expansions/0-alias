@@ -1,2 +1,2 @@
 #!/bin/bash
-alias -p 0-alias=8ls rm *
+alias [-p] [0-alias="ls rm *"]
