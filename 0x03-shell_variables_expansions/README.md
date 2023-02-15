@@ -1,2 +1,5 @@
 1. 0-alias
-- e8e4888e5bddab603e5a
+-  a script that creates an alias.
+
+2. 1-hello_you
+-  a script that prints hello user, where user is the current Linux user.
