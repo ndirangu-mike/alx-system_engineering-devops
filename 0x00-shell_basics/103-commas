@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la dir/,file* ./,../ 
+ls -la [a-z]* ./, ../ 
