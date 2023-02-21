@@ -1,4 +1,0 @@
-0x00-shell_basics
-
-1. 100-lets_move
--  a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
